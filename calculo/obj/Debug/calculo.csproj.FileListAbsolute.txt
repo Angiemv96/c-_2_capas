@@ -1,0 +1,10 @@
+C:\Users\AngieM\source\repos\promedio\2_capas\calculo\bin\Debug\calculo.exe.config
+C:\Users\AngieM\source\repos\promedio\2_capas\calculo\bin\Debug\calculo.exe
+C:\Users\AngieM\source\repos\promedio\2_capas\calculo\bin\Debug\calculo.pdb
+C:\Users\AngieM\source\repos\promedio\2_capas\calculo\obj\Debug\calculo.csproj.AssemblyReference.cache
+C:\Users\AngieM\source\repos\promedio\2_capas\calculo\obj\Debug\calculo.Form1.resources
+C:\Users\AngieM\source\repos\promedio\2_capas\calculo\obj\Debug\calculo.Properties.Resources.resources
+C:\Users\AngieM\source\repos\promedio\2_capas\calculo\obj\Debug\calculo.csproj.GenerateResource.cache
+C:\Users\AngieM\source\repos\promedio\2_capas\calculo\obj\Debug\calculo.csproj.CoreCompileInputs.cache
+C:\Users\AngieM\source\repos\promedio\2_capas\calculo\obj\Debug\calculo.exe
+C:\Users\AngieM\source\repos\promedio\2_capas\calculo\obj\Debug\calculo.pdb
